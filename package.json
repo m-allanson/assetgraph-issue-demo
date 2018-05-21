@@ -1,0 +1,15 @@
+{
+  "name": "assetgraph-issue-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "subfont": "subfont index.html -o output"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "subfont": "^3.3.0"
+  }
+}
